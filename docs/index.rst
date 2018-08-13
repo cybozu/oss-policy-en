@@ -24,6 +24,11 @@ Index and Search
 * :ref:`genindex`
 * :ref:`search`
 
+Contact
+=======
+
+oss@cybozu.com
+
 
 .. raw:: html
 
