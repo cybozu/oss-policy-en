@@ -1,0 +1,17 @@
+************************************************************************
+6. Incorporating copyrighted works of others into the OSS of the Company
+************************************************************************
+
+6.1. When receiving copyrighted works of others
+===============================================
+
+As for the OSS owned by the Company, other OSS provided by third parties must be incorporated into the OSS owned by the Company after obtaining the signature and the consent to the Company’s CLA.
+
+(The Company’s CLA shall be set forth separately in the guidelines.)
+
+6.2. Managing the List of Contributors
+======================================
+
+When receiving the copyrighted works of others, the Company shall endeavor to specify contributors in order to acknowledge and easily contact such contributors.
+
+(The method to manage the list of contributors shall be set forth separately in the guidelines.)
