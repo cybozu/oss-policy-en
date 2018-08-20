@@ -4,7 +4,8 @@ This repository contains English tranlation of https://github.com/cybozu/oss-pol
 
 ## License
 
-The license for the documents is CC0 (Creative Commons 0).
+We have waived all copyrights to the contents in this repository as described in
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
