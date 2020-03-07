@@ -17,9 +17,7 @@ The Employees shall publish the OSS owned by the Company in accordance with the 
 
    (The details of the above-mentioned source code management system shall be set forth separately in the guidelines.)
 
-2. If the Employees have created a repository of the OSS owned by the Company for the purpose of publishing it, they must promptly report it in the OSS management system of the Company.
-
-3. In the above-mentioned repositories, the Employees must promptly deploy the files relating to copyrights, OSS licenses, disclaimers, etc.
+2. In the above-mentioned repositories, the Employees must promptly deploy the files relating to copyrights, OSS licenses, disclaimers, etc.
 
    (The contents of the files to be deployed shall be subject to the provisions of the guidelines separately prescribed.)
 
@@ -30,7 +28,7 @@ The Employees shall publish the contents of the existing private repository in a
 
 1. The Employees must file an application to the OSPO and obtain its approval.
 
-   (The procedure for such approval shall be conducted in the OSS management system of the Company.)
+   (The procedure for such approval shall be set forth separately in the guidelines.)
 
 2. Prior to filing an application, the Employees must deploy the files relating to copyrights, OSS licenses, disclaimers, etc. in the repository.
 
@@ -52,10 +50,12 @@ If it is deemed necessary to change the license of the OSS owned by the Company,
 
 2. After obtaining the approval, the Employees shall update the OSS license file.
 
-4.1.2.2. Changing the OSS repository owned by the Company
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+4.1.2.2. Moving the OSS repository owned by the Company
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If the Employees changes the OSS repository owned by the Company, they must promptly update the reported contents in the OSS management system of the Company.
+In the case of moving the OSS repository owned by the Company, the Employees can move such repository at their own discretion only within the source code management system, where the Company has permitted the Employees to publish the OSS.
+
+(As for moving the OSS repository, the Employees shall pay attention to external communication such as providing the proper instructions for the new repository location.)
 
 4.1.2.3. Stopping publishing (deleting or closing) the OSS owned by the Company
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -78,7 +78,7 @@ The Employees shall stop publishing the OSS owned by the Company in accordance w
 
 In the event that the Employees of the Company modify the source code and publish it for the purpose of adding new functions to or fixing bugs in the OSS on which others have the copyright, the Employees must publish the source code in accordance with the following provisions.
 
-1. The Employees shall apply the same license as the original OSS, except as set forth in the following provision “2 Signing the Contributor License Agreement”.
+1. The Employees shall apply the same license as the original OSS, except as set forth in the following provision “2 Signing the Contributor License Agreement”. 
 2. The Employees shall not use the trademarks of the Company, except for the reference to differentials.
 3. The Employees shall not permit enforcing patents of the Company, except for patents utilized in differentials.
 4. The Employees shall publish such OSS using the e-mail address of the domain owned by the Company.
