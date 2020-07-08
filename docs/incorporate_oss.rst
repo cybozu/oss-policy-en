@@ -5,9 +5,9 @@
 6.1. When receiving copyrighted works of others
 ===============================================
 
-As for the OSS owned by the Company, other OSS provided by third parties must be incorporated into the OSS owned by the Company after obtaining the signature and the consent to the Company’s CLA.
+As for the OSS owned by the Company, other OSS provided by third parties must be incorporated into the OSS owned by the Company after verifying its legality.
 
-(The Company’s CLA shall be set forth separately in the guidelines.)
+(The procedure for such verification of the legality shall be set forth separately in the guidelines.)
 
 6.2. Managing the List of Contributors
 ======================================
